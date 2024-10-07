@@ -1,0 +1,1365 @@
+@media (min-height: 650px) {
+  .are-you {
+    min-height: 100vh;
+    min-height: 100svh;
+  }
+
+  .download-install {
+    min-height: 100vh;
+    min-height: 100svh;
+  }
+
+  .commitment {
+    min-height: 100vh;
+    min-height: 100svh;
+  }
+
+  .faq-section {
+    min-height: 100vh;
+    min-height: 100svh;
+  }
+}
+
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1340px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1430px;
+  }
+}
+
+@media (max-width: 1799px) {
+  /* REFRERRAL PAGE STYLE  */
+  .naira-coin-xl {
+    bottom: 30%;
+    left: 8%;
+  }
+
+  .naira-coin-sm {
+    bottom: 6%;
+    left: 20%;
+  }
+
+  .naira-coin-md {
+    right: 8%;
+    bottom: 30%;
+  }
+
+  .naira-coin-xs {
+    bottom: 15%;
+    right: 23%;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .bitcoin-conversion-spacing {
+    padding-top: 90px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    left: -8%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media only screen and (max-width: 1600px) {
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    left: -7%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media (max-width: 1599px) {
+  html {
+    font-size: 9px;
+  }
+
+  :root {
+    /* FONT SIZE */
+    --font-16: 14px;
+    --font-18: 16px;
+    --font-20: 18px;
+    --font-22: 20px;
+    --font-24: 22px;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+  .naira-coin-xl {
+    bottom: 30%;
+    left: 6%;
+  }
+
+  .naira-coin-sm {
+    bottom: 6%;
+    left: 18%;
+  }
+
+  .naira-coin-md {
+    right: 6%;
+    bottom: 29%;
+  }
+
+  .naira-coin-xs {
+    bottom: 12%;
+    right: 19%;
+  }
+
+  .get-started-container::after {
+    height: 400px;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    bottom: 14%;
+    left: -4%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media (max-width: 1439px) {
+  html {
+    font-size: 8px;
+  }
+
+  :root {
+    --font-24: 20px;
+  }
+
+  /* About us page */
+  .about-us {
+    padding-top: 120px;
+  }
+
+  .about-us-content-wrap p {
+    line-height: 1.6;
+    font-size: 17px;
+  }
+
+  .our-pride-content-wrap .h3.small {
+    font-size: 18px;
+  }
+
+  .why-choose-list-wrap .why-choose-list-items:not(:last-child) {
+    margin-bottom: 3rem;
+  }
+
+  .why-choose-us-content-wrap {
+    max-width: 100%;
+  }
+
+  /* About us page */
+
+  /* HOW TO USE PAGE STYLE  */
+  .download-and-install-stpes-wrap::after {
+    -webkit-filter: blur(62px);
+    filter: blur(62px);
+    top: 0;
+  }
+
+  .text-rotate-img {
+    width: 260px;
+    height: 260px;
+  }
+
+  .logo-rotate-img {
+    width: 210px;
+    height: 210px;
+  }
+
+  .download-install {
+    padding-top: 120px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* COMMITMENT PAGE STYLE  */
+  .committed-steps-6 .committed-steps-inner-content {
+    left: 90%;
+  }
+
+  .committed-steps-1 .committed-steps-inner-content {
+    right: 70%;
+  }
+
+  .committed-steps-inner-content {
+    min-width: 290px;
+    font-size: 16px;
+  }
+
+  .committed-steps-5 .committed-steps-inner-content {
+    left: 20%;
+  }
+
+  .committed-steps-7 .committed-steps-inner-content {
+    left: 10%;
+  }
+
+  .committed-steps-3 .committed-steps-inner-content {
+    right: 50%;
+  }
+
+  .commitment-wrap {
+    padding-top: 120px;
+  }
+
+  /* COMMITMENT PAGE STYLE  */
+}
+
+@media (max-width: 1429px) {
+  /* HOME PAGE STYLE  */
+  .home-hero-img-wrap {
+    right: 3%;
+  }
+
+  /* HOME PAGE STYLE  */
+
+  /* REFRERRAL PAGE STYLE  */
+  .get-started-container::after {
+    height: 390px;
+  }
+
+  .store-btn {
+    padding: 18px 5.1rem;
+  }
+
+  .refferal-create-account-img-wrap {
+    margin: auto;
+  }
+
+  .referral-create-tab-link-container .nav-link:not(:last-child):before {
+    width: 86%;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    bottom: 13%;
+    left: 4%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media only screen and (max-width: 1399px) {
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    bottom: 13%;
+    left: -9%;
+  }
+
+  /* FAQS PAGE STYLE  */
+
+  /* HOME PAGE STYLE  */
+  .home-hero-img-wrap {
+    right: -6%;
+  }
+
+  /* HOME PAGE STYLE  */
+}
+
+@media (max-width: 1365px) {
+  html {
+    font-size: 7px;
+  }
+
+  /* HOME PAGE STYLE  */
+  .home-hero-img-wrap {
+    right: 0;
+  }
+
+  /* HOME PAGE STYLE  */
+
+  /* About us page */
+  .why-choose-list-items img {
+    width: 35px;
+    height: 35px;
+  }
+
+  /* About us page */
+  /* REFRERRAL PAGE STYLE  */
+  .naira-coin-xl {
+    bottom: 30%;
+    left: 8%;
+  }
+
+  .get-started-container::after {
+    height: 380px;
+  }
+
+  .naira-coin-xs {
+    bottom: 12%;
+    right: 16%;
+  }
+
+  .naira-coin-sm {
+    bottom: 6%;
+    left: 16%;
+  }
+
+  .are-you-description-card h3 {
+    font-size: 20px;
+  }
+
+  .refferal-create-account-img-wrap::after {
+    bottom: 14%;
+  }
+
+  .referral-create-account.fp-table {
+    justify-content: center;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .wallet-img {
+    right: -9%;
+  }
+
+  .verify-img,
+  .wallet-img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .bank-img,
+  .email-img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .text-rotate-img {
+    width: 230px;
+    height: 230px;
+  }
+
+  .logo-rotate-img {
+    width: 180px;
+    height: 180px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    bottom: 14%;
+    left: 4%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media only screen and (max-width: 1279px) {
+  /* About us page */
+  .why-choose-us-content-wrap {
+    padding-left: 0;
+  }
+
+  /* About us page */
+}
+
+@media (max-width: 1199px) {
+  html {
+    font-size: 6px;
+  }
+
+  .header-logo {
+    width: 130px;
+  }
+
+  .header-navitem li:not(:last-child) {
+    margin-right: 25px;
+  }
+
+  /* About us page */
+  .about-us.fp-table {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  /* About us page */
+
+  /* REFRERRAL PAGE STYLE  */
+  .naira-coin-xs {
+    bottom: 25%;
+    right: 12%;
+  }
+
+  .naira-coin-xl {
+    bottom: 43%;
+    left: 5%;
+  }
+
+  .naira-coin-sm {
+    bottom: 11%;
+    left: 9%;
+  }
+
+  .naira-coin-md {
+    right: 6%;
+    bottom: 42%;
+  }
+
+  .refferal-code-caption {
+    margin-bottom: 80px;
+  }
+
+  .store-btn {
+    padding: 16px 5.1rem;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .bitcoin-conversion-spacing {
+    padding-top: 0px;
+  }
+
+  .bitcoin-conversion-wrap p {
+    max-width: 60%;
+  }
+
+  .download-and-install-stpes-wrap::after {
+    -webkit-filter: blur(42px);
+    filter: blur(42px);
+  }
+
+  .download-install.fp-table {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* COMMITMENT PAGE STYLE  */
+  .committed-steps-inner-content {
+    min-width: 250px;
+  }
+
+  .committed-steps-inner-content {
+    right: 70%;
+  }
+
+  .committed-steps-3 .committed-steps-inner-content {
+    right: 80%;
+  }
+
+  .committed-steps-5 .committed-steps-inner-content {
+    left: 40%;
+  }
+
+  .committed-steps-7 .committed-steps-inner-content {
+    left: 30%;
+  }
+
+  .committed-steps-6 .committed-steps-inner-content {
+    left: 110%;
+  }
+
+  /* COMMITMENT PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    bottom: 15%;
+    left: 2%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media (max-width: 1023px) {
+  /* REFRERRAL PAGE STYLE  */
+  .store-btn {
+    padding: 12px 5.1rem;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+}
+
+@media (max-width: 991px) {
+  :root {
+    /* FONT SIZE */
+    --font-14: 12px;
+    --font-16: 12px;
+    --font-18: 14px;
+    --font-20: 16px;
+    --font-22: 18px;
+    --font-24: 20px;
+  }
+
+  /* HOME PAGE STYLE  */
+  .home-hero-img-wrap {
+    max-width: 70%;
+    max-height: 70%;
+    position: static;
+    margin: auto;
+    transform: translate(0, 0);
+  }
+
+  .home-app-btn {
+    padding: 10px 20px;
+  }
+
+  .home-hero-title {
+    margin-bottom: 12px;
+  }
+
+  .home-hero-get-app-title-wrap {
+    margin-bottom: 10px;
+  }
+
+  .hero-home {
+    height: 100%;
+    padding-top: 90px;
+    padding-bottom: 4rem;
+  }
+
+  .home-hero-title-caption {
+    margin-top: 22px;
+  }
+
+  .home-hero-title-container {
+    margin-top: 10px;
+  }
+
+  .home-hero-title {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .bitcoin-to-naira-wrap {
+    justify-content: center;
+  }
+
+  .home-hero-title-caption {
+    text-align: center;
+  }
+
+  .home-get-app-container {
+    max-width: 100%;
+  }
+
+  .lets-talk-btn {
+    width: 65px;
+    height: 65px;
+  }
+
+  /* HOME PAGE STYLE  */
+
+  .header-navigation {
+    display: none;
+  }
+
+  .toggle-btn {
+    display: block;
+  }
+
+  #navigation {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 60%;
+    overflow: auto;
+    text-align: center;
+    z-index: 3;
+    height: 100vh;
+    display: block;
+    background-color: var(--white);
+    transition: all 0.7s ease 0s;
+    transform: translateX(110%);
+  }
+
+  .show-menu #navigation {
+    transform: translateX(0%);
+  }
+
+  .header-navitem {
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+  }
+
+  .header-navitem li:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 25px;
+  }
+
+  .header-navitem li .header-navlink {
+    font-size: 25px;
+  }
+
+  .header-navitem li .header-navlink::after {
+    bottom: 0;
+  }
+
+  .header-social-links svg {
+    width: auto;
+    max-width: 80%;
+  }
+
+  .header-social-links {
+    padding: 8px 20px;
+  }
+
+  .header-logo {
+    width: 110px;
+    position: relative;
+    z-index: 6;
+  }
+
+  /* About us page */
+  .about-us {
+    padding-top: 100px;
+  }
+
+  .about-us-img {
+    margin-bottom: 20px;
+  }
+
+  .how-it-works-title-wrap {
+    margin-top: 20px;
+  }
+
+  .how-it-works-img img {
+    width: 60%;
+  }
+
+  .how-it-works {
+    padding-top: 8.5rem;
+  }
+
+  .how-it-works-img {
+    padding-left: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .about-us-img img {
+    width: 60%;
+  }
+
+  .about-us-img {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .about-us-img::after {
+    content: none;
+  }
+
+  .why-choose-us-img {
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+  }
+
+  .why-choose-us-content-wrap {
+    margin: auto;
+  }
+
+  .how-it-works-img::after {
+    content: none;
+  }
+
+  .why-choose-us-content-wrap {
+    margin-top: 20px;
+  }
+
+  /* About us page */
+  /* REFRERRAL PAGE STYLE  */
+  .are-you {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+
+  .naira-coin-sm {
+    bottom: 24%;
+    left: 9%;
+  }
+
+  .store-btn-container {
+    margin-top: 15px;
+  }
+
+  .get-started-container::after {
+    height: 280px;
+  }
+
+  .refferal-code-caption {
+    margin-bottom: 30px;
+  }
+
+  .refferal-create-account-img-wrap {
+    max-width: 60%;
+    max-height: 60%;
+  }
+
+  .referral-create-tab-link-container {
+    margin-top: 10px;
+  }
+
+  .referral-create-tab-link-container .nav-link:not(:last-child):before {
+    width: 93%;
+  }
+
+  .referral-create-account {
+    padding-top: 8.5rem;
+  }
+
+  .invite-friends {
+    padding-top: 8.5rem;
+  }
+
+  .referral-code {
+    padding-top: 8.5rem;
+  }
+
+  .are-you-caption {
+    margin-bottom: 19.9rem;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .download-install.fp-table {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .verify-img {
+    left: -13%;
+  }
+
+  .email-img {
+    right: -11%;
+  }
+
+  .wallet-img {
+    right: -13%;
+  }
+
+  .airplane-img {
+    left: -10%;
+    width: 70px;
+    height: 70px;
+  }
+
+  .bank-img {
+    left: -11%;
+  }
+
+  .download-and-install-stpes-wrap-inner p {
+    font-size: 14px;
+  }
+
+  .bitcoin-conversion-spacing {
+    padding: 40px 0 20px 0;
+  }
+
+  .bitcoin-conversion-img-wrap {
+    width: 55%;
+  }
+
+  .coin-naira-img-wrap {
+    width: 80px;
+    height: 80px;
+  }
+
+  .bitcoin-img {
+    left: 10%;
+  }
+
+  .naira-coin-img {
+    right: 10%;
+  }
+
+  .text-rotate-img {
+    width: 270px;
+    height: 270px;
+  }
+
+  .logo-rotate-img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .download-install {
+    padding-top: 100px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* COMMITMENT PAGE STYLE  */
+  .committed-steps {
+    position: relative;
+  }
+
+  .committed-steps-circle img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .commitment-wrap .circle-img {
+    display: none;
+  }
+
+  .commitment-logo {
+    position: relative;
+    top: unset;
+    left: unset;
+    margin: 0 auto 20px;
+    -webkit-transform: unset;
+    -ms-transform: unset;
+    transform: unset;
+    width: 200px;
+    height: 200px;
+  }
+
+  .committed-steps-inner-content {
+    position: relative !important;
+    -webkit-transform: unset;
+    -ms-transform: unset;
+    transform: unset;
+    top: unset;
+    right: unset;
+  }
+
+  .committed-steps-1,
+  .committed-steps-4 {
+    top: unset;
+    left: unset;
+    -webkit-transform: unset;
+    -ms-transform: unset;
+    transform: unset;
+  }
+
+  .committed-steps-2 {
+    bottom: unset;
+    left: unset;
+  }
+
+  .committed-steps-3 {
+    top: unset;
+    left: unset;
+  }
+
+  .committed-steps-5,
+  .committed-steps-6,
+  .committed-steps-7 {
+    top: unset;
+    right: unset;
+  }
+
+  .committed-steps-1 .committed-steps-inner-content,
+  .committed-steps-3 .committed-steps-inner-content {
+    right: unset;
+  }
+
+  .committed-steps-4 .committed-steps-inner-content,
+  .committed-steps-6 .committed-steps-inner-content {
+    top: unset;
+    left: unset;
+    -webkit-transform: unset;
+    -ms-transform: unset;
+    transform: unset;
+  }
+
+  .committed-steps-5 .committed-steps-inner-content,
+  .committed-steps-7 .committed-steps-inner-content {
+    left: unset;
+  }
+
+  .committed-steps-inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .commitment-img-wrap {
+    max-width: 100%;
+  }
+
+  .committed-steps-circle {
+    width: 50px;
+    height: 50px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+  }
+
+  .committed-steps:not(:last-of-type) {
+    padding-bottom: 15px;
+  }
+
+  .committed-steps-inner-content {
+    text-align: left;
+    margin-left: 20px;
+    word-break: break-word;
+  }
+
+  .commitment-title-wrap h2 {
+    margin-bottom: 30px;
+  }
+
+  .commitment-wrap {
+    padding-top: 100px;
+  }
+
+  /* COMMITMENT PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    max-width: 60%;
+    max-height: 60%;
+    position: static;
+    margin: auto;
+  }
+
+  .faq-accordion-container {
+    max-width: 100%;
+    margin-top: 20px;
+    padding-bottom: 4rem;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media (max-width: 767px) {
+  :root {
+    /* FONT SIZE */
+    --font-24: 18px;
+  }
+
+  html {
+    font-size: 5px;
+  }
+
+  /* HOME PAGE STYLE  */
+  .bitcoin-to-naira-wrap div:nth-child(2) {
+    margin-left: 13px;
+    margin-right: 13px;
+  }
+
+  .home-app-btn {
+    padding: 11px 20px;
+  }
+
+  /* HOME PAGE STYLE  */
+
+  #navigation {
+    width: 100%;
+  }
+
+  .lets-talk-container h3 {
+    display: none;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+  .naira-coin-xl {
+    display: none;
+  }
+
+  .naira-coin-md {
+    display: none;
+  }
+
+  .naira-coin-sm {
+    display: none;
+  }
+
+  .naira-coin-xs {
+    display: none;
+  }
+
+  .referral-create-tab-link-container .nav-link:not(:last-child):before {
+    width: 92%;
+  }
+
+  .are-you-caption {
+    margin-bottom: 7.9rem;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .download-and-install-icons-img {
+    display: none;
+  }
+
+  .bitcoin-conversion-wrap p {
+    max-width: 100%;
+  }
+
+  .bitcoin-conversion-img-wrap {
+    width: 70%;
+  }
+
+  .home-app-btn {
+    padding: 11px 20px;
+  }
+
+  .download-and-install-stpes-wrap {
+    max-width: 100%;
+  }
+
+  .download-and-install-stpes-wrap-inner {
+    padding: 16px 0 16px 0;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+}
+
+@media (max-width: 575px) {
+  html {
+    font-size: 5px;
+  }
+
+  /* HOME PAGE STYLE  */
+  .home-hero-img-wrap {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  /* HOME PAGE STYLE  */
+
+  .header-navitem li .header-navlink {
+    font-size: 20px;
+  }
+
+  .header-navitem li:not(:last-child) {
+    margin-bottom: 15px;
+  }
+
+  /* About us page */
+  .about-us {
+    padding-top: 80px;
+  }
+
+  .why-choose-us-img {
+    width: 100%;
+  }
+
+  /* About us page */
+
+  /* REFRERRAL PAGE STYLE  */
+  .referral-code-quote {
+    margin-top: 8px;
+  }
+
+  .get-started-container::after {
+    height: 260px;
+  }
+
+  .refferal-code-caption {
+    margin-bottom: 10px;
+  }
+
+  .refferal-create-account-img-wrap {
+    max-width: 70%;
+    max-height: 70%;
+  }
+
+  .referral-create-tab-link-container .nav-link:not(:last-child):before {
+    width: 90%;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .bitcoin-conversion-img-wrap {
+    width: 80%;
+  }
+
+  .coin-rotate-img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .logo-rotate-img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .text-rotate-img {
+    width: 230px;
+    height: 230px;
+  }
+
+  .coin-naira-img-wrap {
+    width: 60px;
+    height: 60px;
+  }
+
+  .bitcoin-img {
+    left: 15%;
+  }
+
+  .naira-coin-img {
+    right: 15%;
+  }
+
+  .bitcoin-conversion-wrap p {
+    font-size: 15px;
+  }
+
+  .download-install {
+    padding-top: 80px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* COMMITMENT PAGE STYLE  */
+  .committed-steps-inner-content {
+    font-size: 14px;
+  }
+
+  .commitment-logo {
+    width: 170px;
+    height: 170px;
+  }
+
+  .committed-steps-inner-content {
+    margin-left: 12px;
+  }
+
+  .committed-steps-inner-content {
+    min-width: 200px;
+  }
+
+  .commitment-wrap {
+    padding-top: 80px;
+  }
+
+  /* COMMITMENT PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-accordion .accordion-button::after {
+    width: 20px;
+    height: 20px;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 4px;
+  }
+  .committed-steps-7 {
+    padding-bottom: 40px;
+  }
+  /* HOME PAGE STYLE  */
+  .bitcoin-to-naira-wrap {
+    align-items: center;
+  }
+
+  .bitcoin-to-naira-wrap div:nth-child(2) {
+    margin-left: 13px;
+    margin-right: 13px;
+  }
+
+  .text-img-wrap {
+    max-width: 30.5rem;
+    height: 5.6rem;
+  }
+
+  .home-hero-title-container {
+    margin-top: 5px;
+  }
+
+  /* HOME PAGE STYLE  */
+
+  .header-social-links {
+    padding: 6px 14px;
+  }
+
+  .header-social-links svg {
+    max-width: 70%;
+  }
+
+  .header-navitem li:not(:last-child) {
+    margin-bottom: 5px;
+  }
+
+  /* About us page */
+  .about-us-img img {
+    width: 100%;
+  }
+
+  .how-it-works-img img {
+    width: 100%;
+  }
+
+  .why-choose-us-content-wrap {
+    max-width: 100%;
+  }
+
+  /* About us page */
+  /* REFRERRAL PAGE STYLE  */
+  .are-you-caption {
+    margin-top: 8px;
+  }
+
+  .are-you-description-card {
+    padding: 5.4rem 5.4rem 15rem 5.4rem;
+  }
+
+  .referral-code-get-started-title {
+    margin-bottom: 5px;
+  }
+
+  .store-btn-container {
+    margin-top: 10px;
+  }
+
+  .store-btn {
+    padding: 8px 5.1rem;
+  }
+
+  .get-started-container::after {
+    height: 255px;
+  }
+
+  .referral-create-tab-link-container .nav-link:not(:last-child):before {
+    width: 88%;
+  }
+
+  .are-you-description-card h3 {
+    font-size: 16px;
+  }
+
+  /* REFRERRAL PAGE STYLE  */
+
+  /* HOW TO USE PAGE STYLE  */
+  .bitcoin-conversion-img-wrap {
+    width: 100%;
+  }
+
+  .coin-rotate-img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .logo-rotate-img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .text-rotate-img {
+    width: 160px;
+    height: 160px;
+  }
+
+  .bitcoin-img {
+    left: 22%;
+  }
+
+  .naira-coin-img {
+    right: 22%;
+  }
+
+  .coin-naira-img-wrap {
+    width: 50px;
+    height: 50px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+
+  /* FAQS PAGE STYLE  */
+  .faq-question-mark-wrap {
+    max-width: 90%;
+    max-height: 90%;
+  }
+
+  /* FAQS PAGE STYLE  */
+}
+
+@media (max-width: 414px) {
+  .header-social-links {
+    padding: 4px 12px;
+  }
+
+  .header-social-links svg {
+    max-width: 60%;
+  }
+
+  .header-logo {
+    width: 90px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+  .coin-rotate-img {
+    width: 210px;
+    height: 210px;
+  }
+
+  .coin-naira-img-wrap {
+    width: 40px;
+    height: 40px;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+}
+
+@media (max-width: 375px) {
+  /* HOW TO USE PAGE STYLE  */
+  .social-applinks {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .social-applinks a {
+    width: 55%;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .home-app-btn:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 12px;
+  }
+
+  .home-get-app-container .social-applinks {
+    justify-content: center;
+  }
+
+  /* HOW TO USE PAGE STYLE  */
+}
